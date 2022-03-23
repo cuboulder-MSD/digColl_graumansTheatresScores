@@ -1,4 +1,4 @@
-# Graumans Theatres Scores
+# Grauman's Theatres Scores
 ## Description
 
 Permanent address to digital collection: []().<br /> 
