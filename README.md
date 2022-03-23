@@ -133,8 +133,6 @@ Terms used:
 ### Related Item
 Information that identifies other resources related to the one being described. This includes title, item ID, item ARK, and a term to describe how the item is related.
 
-### Listen to Audio
-
 ### Identifier
 Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. 
 
