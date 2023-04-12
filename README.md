@@ -8,20 +8,12 @@ Please use the same link when sharing or citing the collection.
 
 ## Metadata
 ### Collection Name
-Name of the collection:
-
-### Subcollection
+Name of the collection: Graumans Theatres Scores, 1882-1937
 
 ### Title
-Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
+Titles derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 
 ### Subtitle
-
-### Uniform Title
-
-### Alternative Title
-
-### Series Title
 
 ### First Line of Text
 
