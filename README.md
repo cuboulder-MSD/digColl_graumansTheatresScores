@@ -15,112 +15,108 @@ Titles derived from original captions on the work by the creator. If the origina
 
 ### Subtitle
 
+These titles might include smaller parts to a larger piece.
+
+### First Line of Chorus
+
+First line of the chorus of the song.
+
 ### First Line of Text
+
+First line of the lyrical composition.
 
 ### Composer
 
+Common names include: Handel, George Frideric, 1685-1759; Beethoven, Ludwig van, 1770-1827; Sousa, John Philip, 1854-1932
+
 ### Lyricist
+
+Common names include: 
 
 ### Arranger
 
+Common names include:
+
 ### Editor
 
-### Artist
-
-### Performer
+Editor of the composition.
 
 ### Contributor
 
 ### Type of Resource
 A term that specifies the characteristics and general type of content of the resource. 
 
-Type terms used in this collection include: 
+Type terms used in this collection include: Notated music
 
 ### Place Term
 Location of work creation or publication city. 
 
-Places include:
+Places include: Paris (France); New York (N.Y.)
 
 ### Publisher
 The name of the entity that published, printed, distributed, released, issued, or produced the resource.
 
+Common publishers include: Carl Fischer; G. Schirmer, Inc.; Hawkes & Son
+
 ### Edition
 A particular form or version of a published text.
 
-### Issuance
-
-### Frequency
-
 ### Date Issued
-The date that the resource was published, released, or issued. 
+The date that the resource was published, released, or issued. Dates range between 1882-1937 
 
 ### Date Created
-The date of creation of the resource. 
+The date of creation of the manuscript. This often includes unique, hand notated works. 
 
-Date ranges include:
+Date ranges include: 1882-1937 
 
 ### Date Captured
 The date on which the resource was digitized or a subsequent snapshot was taken. 
 
-Dates include:
+Dates include: 2022
 
 ### Language
 Contains the textual or coded form for the language of the content of the resource. 
 
-Language(s) seen in this collection include:
+Language(s) seen in this collection include: English
 
 ### Extent
-The size or scale of the work.
+The size or scale of the work. Works contain unnumbered pages.
 
 ### Physical Description
+
+Brief notes about the handwritten edits and markings seen throughout each score.
 
 ### Form
 A particular physical presentation of a resource, including the physical form or medium of material for a resource. 
 
-Form terms include:
-
-### Digitization Note
+Form terms include: sheet music
 
 ### Digital Origin
-The method by which a resource achieved digital form.
+The method by which a resource achieved digital form: reformatted digital
 
 ### Internet Media Type: 
 Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. 
 
-Media type(s) in this collection:
+Media type(s) in this collection: application/pdf
 
 ### Instrumentation Note
 
- Origin for this collection: reformatted digital
+Transcriptions from the envelopes about the instrumentation that comprises each packet. Example: 
+
+1st flute (3 copies) ; 1st clarinet (3 copies) ; 2nd clarinet (1 copy) ; 1st oboe (1 copy) ; 1st bassoon (1 copy) ; 1st cornet (3 copies) ; 2nd cornet (3 copies) ; 1st horn (2 copies) ; 2nd horn (2 copies) ; 1st trombone (3 copies) ; drums & timpani (3 copies) ; 1st violin (9 copies) ; 2nd violin (6 copies) ; viola (3 copies) ; cello (4 copies) ; bass (5 copies) ; piano (2 copies)
 
 ### Note
+
+Notes about the copies available.
 
 ### Subject Topic
 A term or phrase representing the primary topic(s) on which a work is focused. 
 
-Common subject terms used in this collection include:
-
-### Subject Name
-A name used as a subject or additional authors, recipients, or names mentioned within the record.
-
-### Subject Geographic
-Geographic location(s) relevant to the item. 
-
-Some coverage terms used in the collection include: 
-
-### Subject Title
-
-### Subject Genre
-
-### Subject Temporal
-Used for chronological subject terms or temporal coverage. 
-
-Terms used: 
-
-
-### Classification
+Common subject terms used in this collection include: Silent film music; Motion picture music
 
 ### Publisher Number
+
+Number transcribed from front of envelope: 12750-47 TO 1423
 
 ### Plate Number
 
@@ -130,35 +126,33 @@ Information that identifies other resources related to the one being described. 
 ### Identifier
 Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. 
 
-Example:
+Example: narv_grauman_2870_largoMelodieInFAngelsSerenade.pdf
 
 ### Identifier ARK
 Controlled, stable link to the resource. 
 
-Example:
+Example: https://ark.colorado.edu/ark:/47540/g47r0j79t39c
 
 ### Physical Location
-The institution or repository that holds the resource or where it is available:
+The institution or repository that holds the resource or where it is available: American Music Research Center
 
 ### Sublocation
 
 ### Shelf Identifier
 Shelfmark or other shelving designation that indicates the location identifier for a resource. 
 
-Example: 
+Example: COU-AMRC-113
 
 ### Access Condition
 Information about restrictions imposed on access to a resource.
 
-Statement in collection:
+Statement in collection: The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States, but a determination was not made as to its copyright status under the copyright laws of other countries. The Item may not be in the Public Domain under the laws of other countries. Please refer to the organization that has made the Item available for more information.
+
+The copyright and related rights status of this Item has been reviewed by the organization that has made the Item available, but the organization was unable to make a conclusive determination as to the copyright status of the Item. Please refer to the organization that has made the Item available for more information. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.
+
+This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).
 
 Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
-
-### Text
-
-### Scanning Technician
-
-### Extent List
 
 ## Resources
 For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [https://archives.colorado.edu/repositories/2/resources/2321](https://archives.colorado.edu/repositories/2/resources/2321).
