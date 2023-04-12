@@ -1,7 +1,9 @@
 # Grauman's Theatres Scores
 ## Description
 
-Permanent address to digital collection: []().<br /> 
+Printed scores and parts for 3,845 orchestrations from the late nineteenth century and through the Silent Film Era, believed to have been collected originally in one or more libraries in Sid Grauman's theatre empire. The collection includes scores and parts, orchestrated primarily for large orchestra. Some scores contain property marks from individuals such as composer Rudolph Kopp or conductor Charles Gluck. Many bear the property stamp of "Grauman's Theatres."
+
+Permanent address to digital collection: [https://doi.org/10.25810/hsnv-mf74](https://doi.org/10.25810/hsnv-mf74).<br /> 
 Please use the same link when sharing or citing the collection.
 
 ## Metadata
