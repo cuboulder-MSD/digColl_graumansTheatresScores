@@ -31,17 +31,19 @@ Common names include: Handel, George Frideric, 1685-1759; Beethoven, Ludwig van,
 
 ### Lyricist
 
-Common names include: 
+Common names include: Gershwin, Ira, 1896-1983|Rose, Billy, 1899-1966; Frey, Hugo, 1873-1952; Little, Jack, 1900-1956|Finch, Dick, 1898-1955|Malie, Tommie
 
 ### Arranger
 
-Common names include:
+Common names include: Paul, Walter; Tobani, Theo. M. (Theodore Moses), 1855-1933; Langey, Otto, 1851-1922
 
 ### Editor
 
 Editor of the composition.
 
 ### Contributor
+
+Contributor to the resource: Woodhouse, Charles, 1879-1939; Hartman, Arthur
 
 ### Type of Resource
 A term that specifies the characteristics and general type of content of the resource. 
