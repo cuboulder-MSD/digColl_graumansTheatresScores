@@ -138,8 +138,6 @@ Example: https://ark.colorado.edu/ark:/47540/g47r0j79t39c
 ### Physical Location
 The institution or repository that holds the resource or where it is available: American Music Research Center
 
-### Sublocation
-
 ### Shelf Identifier
 Shelfmark or other shelving designation that indicates the location identifier for a resource. 
 
